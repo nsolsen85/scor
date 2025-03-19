@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "scor",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5c08292b-9908-4325-b1ce-697d1f43601a",
+      "database_name": "scor-data"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
